@@ -1,0 +1,404 @@
+{
+    "Cars": [
+        {
+            "Id": 1,
+            "Make": "Toyota",
+            "Model": "Camry",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100001",
+            "Color": "White"
+        },
+        {
+            "Id": 2,
+            "Make": "BMW",
+            "Model": "X5",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100002",
+            "Color": "Black"
+        },
+        {
+            "Id": 3,
+            "Make": "Mercedes-Benz",
+            "Model": "C-Class",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100003",
+            "Color": "Silver"
+        },
+        {
+            "Id": 4,
+            "Make": "Honda",
+            "Model": "Civic",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100004",
+            "Color": "Red"
+        },
+        {
+            "Id": 5,
+            "Make": "Hyundai",
+            "Model": "Elantra",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100005",
+            "Color": "Blue"
+        },
+        {
+            "Id": 6,
+            "Make": "Kia",
+            "Model": "Sportage",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100006",
+            "Color": "Gray"
+        },
+        {
+            "Id": 7,
+            "Make": "Ford",
+            "Model": "Mustang",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100007",
+            "Color": "Yellow"
+        },
+        {
+            "Id": 8,
+            "Make": "Chevrolet",
+            "Model": "Malibu",
+            "Year": 2019,
+            "VIN": "1HGCM82633A100008",
+            "Color": "Black"
+        },
+        {
+            "Id": 9,
+            "Make": "Audi",
+            "Model": "A6",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100009",
+            "Color": "White"
+        },
+        {
+            "Id": 10,
+            "Make": "Volkswagen",
+            "Model": "Passat",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100010",
+            "Color": "Silver"
+        },
+        {
+            "Id": 11,
+            "Make": "Toyota",
+            "Model": "Corolla",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100011",
+            "Color": "Blue"
+        },
+        {
+            "Id": 12,
+            "Make": "BMW",
+            "Model": "3 Series",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100012",
+            "Color": "Gray"
+        },
+        {
+            "Id": 13,
+            "Make": "Mercedes-Benz",
+            "Model": "E-Class",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100013",
+            "Color": "Black"
+        },
+        {
+            "Id": 14,
+            "Make": "Honda",
+            "Model": "Accord",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100014",
+            "Color": "White"
+        },
+        {
+            "Id": 15,
+            "Make": "Hyundai",
+            "Model": "Tucson",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100015",
+            "Color": "Red"
+        },
+        {
+            "Id": 16,
+            "Make": "Kia",
+            "Model": "Sorento",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100016",
+            "Color": "Silver"
+        },
+        {
+            "Id": 17,
+            "Make": "Ford",
+            "Model": "Focus",
+            "Year": 2018,
+            "VIN": "1HGCM82633A100017",
+            "Color": "Blue"
+        },
+        {
+            "Id": 18,
+            "Make": "Chevrolet",
+            "Model": "Camaro",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100018",
+            "Color": "Yellow"
+        },
+        {
+            "Id": 19,
+            "Make": "Audi",
+            "Model": "A4",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100019",
+            "Color": "Black"
+        },
+        {
+            "Id": 20,
+            "Make": "Volkswagen",
+            "Model": "Golf",
+            "Year": 2019,
+            "VIN": "1HGCM82633A100020",
+            "Color": "White"
+        },
+        {
+            "Id": 21,
+            "Make": "Nissan",
+            "Model": "Altima",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100021",
+            "Color": "Gray"
+        },
+        {
+            "Id": 22,
+            "Make": "Mazda",
+            "Model": "CX-5",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100022",
+            "Color": "Red"
+        },
+        {
+            "Id": 23,
+            "Make": "Lexus",
+            "Model": "RX 350",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100023",
+            "Color": "Black"
+        },
+        {
+            "Id": 24,
+            "Make": "Volvo",
+            "Model": "XC60",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100024",
+            "Color": "Silver"
+        },
+        {
+            "Id": 25,
+            "Make": "Subaru",
+            "Model": "Outback",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100025",
+            "Color": "Green"
+        },
+        {
+            "Id": 26,
+            "Make": "Tesla",
+            "Model": "Model 3",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100026",
+            "Color": "White"
+        },
+        {
+            "Id": 27,
+            "Make": "Porsche",
+            "Model": "Cayenne",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100027",
+            "Color": "Black"
+        },
+        {
+            "Id": 28,
+            "Make": "Jeep",
+            "Model": "Wrangler",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100028",
+            "Color": "Green"
+        },
+        {
+            "Id": 29,
+            "Make": "Land Rover",
+            "Model": "Range Rover",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100029",
+            "Color": "Gray"
+        },
+        {
+            "Id": 30,
+            "Make": "Mitsubishi",
+            "Model": "Outlander",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100030",
+            "Color": "Blue"
+        },
+        {
+            "Id": 31,
+            "Make": "Toyota",
+            "Model": "RAV4",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100031",
+            "Color": "Silver"
+        },
+        {
+            "Id": 32,
+            "Make": "BMW",
+            "Model": "X3",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100032",
+            "Color": "White"
+        },
+        {
+            "Id": 33,
+            "Make": "Mercedes-Benz",
+            "Model": "GLC",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100033",
+            "Color": "Blue"
+        },
+        {
+            "Id": 34,
+            "Make": "Honda",
+            "Model": "CR-V",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100034",
+            "Color": "Gray"
+        },
+        {
+            "Id": 35,
+            "Make": "Hyundai",
+            "Model": "Sonata",
+            "Year": 2019,
+            "VIN": "1HGCM82633A100035",
+            "Color": "Black"
+        },
+        {
+            "Id": 36,
+            "Make": "Kia",
+            "Model": "K5",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100036",
+            "Color": "White"
+        },
+        {
+            "Id": 37,
+            "Make": "Ford",
+            "Model": "Explorer",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100037",
+            "Color": "Red"
+        },
+        {
+            "Id": 38,
+            "Make": "Chevrolet",
+            "Model": "Tahoe",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100038",
+            "Color": "Silver"
+        },
+        {
+            "Id": 39,
+            "Make": "Audi",
+            "Model": "Q7",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100039",
+            "Color": "Gray"
+        },
+        {
+            "Id": 40,
+            "Make": "Volkswagen",
+            "Model": "Tiguan",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100040",
+            "Color": "Blue"
+        },
+        {
+            "Id": 41,
+            "Make": "Nissan",
+            "Model": "Qashqai",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100041",
+            "Color": "White"
+        },
+        {
+            "Id": 42,
+            "Make": "Mazda",
+            "Model": "Mazda 6",
+            "Year": 2020,
+            "VIN": "1HGCM82633A100042",
+            "Color": "Red"
+        },
+        {
+            "Id": 43,
+            "Make": "Lexus",
+            "Model": "ES 350",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100043",
+            "Color": "Black"
+        },
+        {
+            "Id": 44,
+            "Make": "Volvo",
+            "Model": "XC90",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100044",
+            "Color": "Silver"
+        },
+        {
+            "Id": 45,
+            "Make": "Subaru",
+            "Model": "Forester",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100045",
+            "Color": "Green"
+        },
+        {
+            "Id": 46,
+            "Make": "Tesla",
+            "Model": "Model Y",
+            "Year": 2024,
+            "VIN": "1HGCM82633A100046",
+            "Color": "White"
+        },
+        {
+            "Id": 47,
+            "Make": "Porsche",
+            "Model": "Macan",
+            "Year": 2023,
+            "VIN": "1HGCM82633A100047",
+            "Color": "Gray"
+        },
+        {
+            "Id": 48,
+            "Make": "Jeep",
+            "Model": "Grand Cherokee",
+            "Year": 2022,
+            "VIN": "1HGCM82633A100048",
+            "Color": "Black"
+        },
+        {
+            "Id": 49,
+            "Make": "Land Rover",
+            "Model": "Discovery",
+            "Year": 2021,
+            "VIN": "1HGCM82633A100049",
+            "Color": "Silver"
+        },
+        {
+            "Id": 50,
+            "Make": "Mitsubishi",
+            "Model": "Pajero",
+            "Year": 2019,
+            "VIN": "1HGCM82633A100050",
+            "Color": "Blue"
+        }
+    ]
+}

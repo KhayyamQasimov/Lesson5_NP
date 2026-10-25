@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C075AD-85B6-44C0-8E9A-0131A66C61DF}|Client\\Client.csproj|c:\\users\\admin\\desktop\\c#\\shared\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C075AD-85B6-44C0-8E9A-0131A66C61DF}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\shared\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\shared\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C075AD-85B6-44C0-8E9A-0131A66C61DF}|Client\\Client.csproj|c:\\users\\admin\\desktop\\c#\\shared\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80C075AD-85B6-44C0-8E9A-0131A66C61DF}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\shared\\httpmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\shared\\httpmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\shared\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\shared\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\shared\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\shared\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\data\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\data\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\shared\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\shared\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|c:\\users\\admin\\desktop\\c#\\shared\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1736D-CD53-4C82-B181-9FF2E304D9A4}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|c:\\users\\admin\\desktop\\c#\\shared\\shared\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF6B059-47C7-486F-A06A-F5321606C453}|Shared\\Shared.csproj|solutionrelative:shared\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\Response.cs",
+              "RelativeDocumentMoniker": "Shared\\Shared\\Response.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\Response.cs",
+              "RelativeToolTip": "Shared\\Shared\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:46:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shared",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-25T10:39:45.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\IEntity.cs",
+              "RelativeDocumentMoniker": "Shared\\Shared\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\IEntity.cs",
+              "RelativeToolTip": "Shared\\Shared\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T10:39:03.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cars.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Data\\Cars.json",
+              "RelativeDocumentMoniker": "Server\\Data\\Cars.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Data\\Cars.json",
+              "RelativeToolTip": "Server\\Data\\Cars.json",
+              "ViewState": "AgIAADABAAAAAAAAAAAAAJMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T07:34:18.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Server\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T07:04:55.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Server\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:51:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-24T06:43:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-24T06:43:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:42:02.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\ICarRepository.cs",
+              "RelativeToolTip": "Server\\Repositories\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:40:26.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Server\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Server\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:38:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:37:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\Command.cs",
+              "RelativeDocumentMoniker": "Shared\\Shared\\Command.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\Command.cs",
+              "RelativeToolTip": "Shared\\Shared\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:33:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\Car.cs",
+              "RelativeDocumentMoniker": "Shared\\Shared\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\Car.cs",
+              "RelativeToolTip": "Shared\\Shared\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:30:29.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\HttpMethods.cs",
+              "RelativeDocumentMoniker": "Shared\\Shared\\HttpMethods.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Shared\\HttpMethods.cs",
+              "RelativeToolTip": "Shared\\Shared\\HttpMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:20:15.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Program.cs",
+              "RelativeDocumentMoniker": "Shared\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\Shared\\Shared\\Program.cs",
+              "RelativeToolTip": "Shared\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:19:29.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
